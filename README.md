@@ -11,7 +11,7 @@ My focus area for the past few years has been automated deployment of data anlyt
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kirill.m.nikitin)  [Instagram](https://www.instagram.com/kirill.m.nikitin)  
 ---
 
-# **👩🏻‍💻** Work experience
+# 👩🏻‍💻 Work experience
 
 ## Solution architect
 
