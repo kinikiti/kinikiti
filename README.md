@@ -7,7 +7,7 @@ My focus area for the past few years has been automated deployment of data anlyt
 # ☎️ Contact information
 
 📧 kirill@16v.ru  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kirill-nikitin-82954355)  [LinkedIn]((https://www.linkedin.com/in/kirill-nikitin-82954355))  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kirill-nikitin-82954355)  [LinkedIn](https://www.linkedin.com/in/kirill-nikitin-82954355)  
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kirill.m.nikitin)  [Instagram](https://www.instagram.com/kirill.m.nikitin)  
 ---
 
