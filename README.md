@@ -183,7 +183,8 @@ Special machinery. Flight Dynamics and Movement Control, Graduate with honors
 # 📖  Certification
 
 * 2017	Red Hat certified system administrator in Red Hat OpenStack EX210
-* 2020	IBM Cloud Pak for Data certified administrator
-* 2020	AWS Solution Architect
-* 2020 	Azure Fundamentals certification
-* 2020	Azure AI Fundamentals certification
+* 2021	IBM Cloud Pak for Data certified administrator
+* 2021	AWS Solution Architect
+* 2021 	Azure Fundamentals certification
+* 2021	Azure AI Fundamentals certification
+* 2022  Microsoft Azure Administrator Associate
