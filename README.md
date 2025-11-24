@@ -24,17 +24,17 @@ As a results-oriented individual, I possess strong debugging and problem-solving
 
 **Freelance contractor**, Belgium – (Oct 2022 - present)*
 
-Clients: Vlaamse Overheid, ST Engineering, Deloitte, Spread GMBH
+Clients: Vlaamse Overheid, ST Engineering, Audi, Volkswagen, Deloitte, Spread GMBH
 
 Main responsibilities:
 
-Overall architectural system design for big data analytics platforms and systems based on RedHat OpenShift
-implemented in hybrid environments with integration with AWS and Azure.
-Implementation of continuous delivery using Ansible, Terraform, and GitOps tools such as ArgoCD.
+Overall architectural system design for big data analytics platforms and systems based on RedHat OpenShift,
+AWS and Azure implemented in hybrid environments with integration with various public Clouds.
+Implementation of continuous delivery using Terraform, Ansible, Puppet and GitOps tools such as ArgoCD.
 
 *Vlaamse overheid.* 
 
-Big data analytics platform based on the RedHat OpenShift in a hybrid environment,
+Big data analytics platform based on the RedHat OpenShift initially in a hybrid environment,
 including bare metal implementation with AWS integration.
 Automation was implemented using Terraform and Kubernetes GitOps tooling.
 
@@ -43,6 +43,9 @@ setting up core applications on the platform such as MinIO,
 PostgreSQL, and Keycloak using ArgoCD, Helm, and Operator approach.
 The setup was fully automated using GitHub Actions.
 
+I design end implement monitoring and logging stack using Prometheus, Grafana and ELK.
+Stack includes some custom components written by my using Python and Go.
+
 Another main responsibility was connectivity management to all data sources,
 external components, and repositories for the Production environment,
 which doesn't have internet connectivity.
@@ -50,9 +53,30 @@ which doesn't have internet connectivity.
 I was the single point of contact for all authentication questions and interactions with the government IDP,
 as well as for OpenShift networking and performance questions.
 
+*Volkswagen*
+
+Operational platform on Azure AKS using SeaweedFS with Azure Blob for the S3 implementation and Azure Vault via CSI driver
+for secret management.
+
+I was responsible for the full design and implementation of GitHub CI/CD pipelines deploying three separate environments,
+setting up all applications on  the platform such us MongoDB, Neo4j and Argo Workflows.
+
+*Audi*
+
+Operational platform on private OpenShift cluster using SeaweedFS for the S3 implementation and SOPS implementation for 
+the secret management.
+
+I was responsible for the full design and implementation of GitHub CI/CD pipelines deploying three separate environments,
+setting up all applications on  the platform such us MongoDB, Neo4j and Argo Workflows.
+
 *ST Engineering iDirect.*
 
-Single point of contact for the team's resources in AWS and Azure. I was responsible for rebuilding the Azure Cloud part and migrating it between accounts, optimizing Azure resources, and rebuilding Azure OpenShift (ARO) applications for a more generalized approach using Terraform and Terragrunt. Additionally, I was responsible for upgrading and rebuilding several containers, including migration to the latest base images, security hardening, and code upgrades using Jenkins pipelines.
+Single point of contact for the team's resources in AWS and Azure. 
+
+I was responsible for rebuilding the Azure Cloud part and migrating it between accounts, optimizing Azure resources,
+and rebuilding Azure OpenShift (ARO) applications for a more generalized approach using Terraform and Terragrunt.
+Additionally, I was responsible for upgrading and rebuilding several containers,
+including migration to the latest base images, security hardening, and code upgrades using Jenkins pipelines.
 
 *Deloitte*
 
