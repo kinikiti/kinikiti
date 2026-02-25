@@ -32,6 +32,12 @@ Overall architectural system design for big data analytics platforms and systems
 AWS and Azure implemented in hybrid environments with integration with various public Clouds.
 Implementation of continuous delivery using Terraform, Ansible, Puppet and GitOps tools such as ArgoCD.
 
+*Argenx*  
+  
+Building IaaC implementation of Azure Kubernetes using Terraform.
+This is shared multi-tenant AKS cluster with different RBAC roles per project and tenant, with NIS2 security measures 
+in places. Full cluster autoscaling was implemented using Karpenter.
+
 *Vlaamse overheid.* 
 
 Big data analytics platform based on the RedHat OpenShift initially in a hybrid environment,
@@ -249,21 +255,57 @@ Overall system design, configuration and programming all interfaces. Design and 
 
 ## 💻 Technology
 
-### Automation
+### Platform & Containers
+* Red Hat OpenShift
+* Kubernetes
+* ROSA
+* ARO
+* KubeVirt
+* Operators
+* Podman
+* Docker
 
-Puppet, Terraform, Cloud Formation, 
+### Cloud & Infrastructure
+* AWS
+* Azure
+* On-premises
+* Bare Metal
+* Hybrid Cloud
 
-### Virtualization
+### Infrastructure as Code
+* Terraform
+* Terragrunt
+* Helm
+* Argo CD
+* GitOps
+* Ansible
 
-OpenShift, KVM, Docker, Kubernetes, OpenStack, VMWare (5.0 and later, Clusters, vSAN)
+### CI/CD & DevEx
+* Jenkins
+* GitLab CI
+* CI/CD Pipelines 
+* Application Onboarding
 
-### Programming
+### Networking & Security
+* Kubernetes Networking
+* RBAC
+* TLS
+* Cloud-to-Cloud Connectivity
+* Cloud-to-Bare-Metal Tunneling
+* Platform Security Hardening
 
-Python, PHP, Bash, PL/SQL
+### Observability & Operations
+* Monitoring
+* Logging
+* Alerting
+* Incident Response
+* Day 2 Operations
 
-### Development tools
-
-GIT, BitBucket, CA Rally, Youtrack, Jira, Confluence
+### Languages & OS
+* Linux (RHEL, Debian)
+* Bash 
+* Python 
+* Go (basic)
 
 ---
 
@@ -273,7 +315,8 @@ GIT, BitBucket, CA Rally, Youtrack, Jira, Confluence
 Native speaker 
 ### English
 Proficient speaker 
-
+### Dutch
+Intermediate
 ---
 
 # 📚 Education
